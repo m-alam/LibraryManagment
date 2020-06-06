@@ -1,0 +1,12 @@
+E:\practice\LibraryManagment\LibraryManagement.Framework\obj\Debug\netcoreapp3.1\LibraryManagement.Framework.csprojAssemblyReference.cache
+E:\practice\LibraryManagment\LibraryManagement.Framework\obj\Debug\netcoreapp3.1\LibraryManagement.Framework.AssemblyInfoInputs.cache
+E:\practice\LibraryManagment\LibraryManagement.Framework\obj\Debug\netcoreapp3.1\LibraryManagement.Framework.AssemblyInfo.cs
+E:\practice\LibraryManagment\LibraryManagement.Framework\bin\Debug\netcoreapp3.1\LibraryManagement.Data.dll
+E:\practice\LibraryManagment\LibraryManagement.Framework\bin\Debug\netcoreapp3.1\LibraryManagement.Framework.deps.json
+E:\practice\LibraryManagment\LibraryManagement.Framework\bin\Debug\netcoreapp3.1\LibraryManagement.Framework.dll
+E:\practice\LibraryManagment\LibraryManagement.Framework\bin\Debug\netcoreapp3.1\LibraryManagement.Framework.pdb
+E:\practice\LibraryManagment\LibraryManagement.Framework\bin\Debug\netcoreapp3.1\LibraryManagement.Data.pdb
+E:\practice\LibraryManagment\LibraryManagement.Framework\obj\Debug\netcoreapp3.1\LibraryManagement.Framework.csproj.CopyComplete
+E:\practice\LibraryManagment\LibraryManagement.Framework\obj\Debug\netcoreapp3.1\LibraryManagement.Framework.dll
+E:\practice\LibraryManagment\LibraryManagement.Framework\obj\Debug\netcoreapp3.1\LibraryManagement.Framework.pdb
+E:\practice\LibraryManagment\LibraryManagement.Framework\obj\Debug\netcoreapp3.1\LibraryManagement.Framework.csproj.CoreCompileInputs.cache

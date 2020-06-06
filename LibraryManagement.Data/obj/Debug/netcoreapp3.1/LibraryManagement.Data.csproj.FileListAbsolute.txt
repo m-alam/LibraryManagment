@@ -1,0 +1,9 @@
+E:\practice\LibraryManagment\LibraryManagement.Data\bin\Debug\netcoreapp3.1\LibraryManagement.Data.deps.json
+E:\practice\LibraryManagment\LibraryManagement.Data\bin\Debug\netcoreapp3.1\LibraryManagement.Data.dll
+E:\practice\LibraryManagment\LibraryManagement.Data\obj\Debug\netcoreapp3.1\LibraryManagement.Data.csprojAssemblyReference.cache
+E:\practice\LibraryManagment\LibraryManagement.Data\obj\Debug\netcoreapp3.1\LibraryManagement.Data.AssemblyInfoInputs.cache
+E:\practice\LibraryManagment\LibraryManagement.Data\obj\Debug\netcoreapp3.1\LibraryManagement.Data.AssemblyInfo.cs
+E:\practice\LibraryManagment\LibraryManagement.Data\bin\Debug\netcoreapp3.1\LibraryManagement.Data.pdb
+E:\practice\LibraryManagment\LibraryManagement.Data\obj\Debug\netcoreapp3.1\LibraryManagement.Data.dll
+E:\practice\LibraryManagment\LibraryManagement.Data\obj\Debug\netcoreapp3.1\LibraryManagement.Data.pdb
+E:\practice\LibraryManagment\LibraryManagement.Data\obj\Debug\netcoreapp3.1\LibraryManagement.Data.csproj.CoreCompileInputs.cache
